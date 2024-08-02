@@ -1,19 +1,19 @@
 {
-  "name": "@coreui/coreui-free-react-admin-template",
+  "name": "@shankarks96/zen-class-frontend",
   "version": "5.1.0",
-  "description": "CoreUI Free React Admin Template",
+  "description": "zen-class-frontend",
   "homepage": ".",
   "bugs": {
-    "url": "https://github.com/coreui/coreui-free-react-admin-template/issues"
+    "url": "https://github.com/shankarks96/zen-class-frontend.git/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:coreui/coreui-free-react-admin-template.git"
+    "url": "git@github.com:shankarks96/zen-class-frontend.git"
   },
   "license": "MIT",
-  "author": "The CoreUI Team (https://github.com/orgs/coreui/people)",
+  "author": "shankarks96/zen-class-frontend",
   "scripts": {
-    "build": "vite build",
+    "build": "npm run build",
     "lint": "eslint \"src/**/*.js\"",
     "serve": "vite preview",
     "start": "vite"
